@@ -10,7 +10,4 @@ Activities: Two main activities handle the user interface: MainActivity for the 
 ![image](https://github.com/Semat77/Clicker_Shop/assets/100786337/a958501a-e4cc-470d-8160-8f7740cf037d)
 ![image](https://github.com/Semat77/Clicker_Shop/assets/100786337/c570925d-086e-495b-be52-5859e4f50811)
 
-Data Storage: SharedPreferences is used to save the user's points and purchased bonuses.
 Layouts: XML layouts are used to design the user interface.
-Contributing
-We welcome contributions to ClickPoint! If you have suggestions or improvements, please fork the repository and create a pull request. You can also open an issue if you find bugs or have feature requests.
